@@ -14,3 +14,8 @@ En este repositorio se almacena el proceso de instalación de Docker y Docker-Co
 
 ## Referencias
 
+**Guías de instalación**
+
+[Docker-compose](https://docs.docker.com/compose/install/)
+
+[Docker](https://docs.docker.com/engine/install/centos/)
